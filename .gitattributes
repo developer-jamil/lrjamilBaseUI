@@ -1,0 +1,3 @@
+# Mark scripts as documentation to avoid Python tag
+scripts/* linguist-documentation
+scripts/*.py linguist-vendored
