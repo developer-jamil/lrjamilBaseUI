@@ -81,14 +81,11 @@
     <style name="singleFullCard_EditText">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">52dp</item>
-        <item name="cardCornerRadius">@dimen/_30sdp</item>
         <item name="cardElevation">0dp</item>
-        <item name="cardBackgroundColor">@color/colorCardBorder</item>
     </style>
 
     <style name="singleFullBoarderCard_EditText" parent="singleFullCard_EditText">
-        <item name="cardBackgroundColor">@color/colorBrand</item>
-        <item name="cardCornerRadius">@dimen/_8sdp</item>
+        <item name="android:background">@color/colorBrand</item>
     </style>
 
     <style name="editTextStyle">

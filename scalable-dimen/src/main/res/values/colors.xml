@@ -5,12 +5,12 @@
     <color name="transparent">#00000000</color>
     
     <!-- Branding Colors -->
-    <color name="colorBrand">#2E7D32</color> <!-- Default Green -->
-    <color name="colorBackground">#F9FCF7</color>
+    <color name="colorBrand">#FF2E7D32</color> <!-- Default Green -->
+    <color name="colorBackground">#FFF9FCF7</color>
     
-    <color name="text_color">#000000</color>
-    <color name="des_color">#757575</color>
-    <color name="colorCardBorder">#E0E0E0</color>
-    <color name="colorCardBackground">#FFFFFF</color>
-    <color name="red">#F44336</color>
+    <color name="text_color">#FF000000</color>
+    <color name="des_color">#FF757575</color>
+    <color name="colorCardBorder">#FFE0E0E0</color>
+    <color name="colorCardBackground">#FFFFFFFF</color>
+    <color name="red">#FFF44336</color>
 </resources>
