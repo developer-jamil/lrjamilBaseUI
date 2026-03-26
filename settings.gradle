@@ -23,5 +23,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "JamilBaseUI"
+rootProject.name = "lrjamilBaseUI"
 include ':scalable-dimen'

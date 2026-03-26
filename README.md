@@ -1,6 +1,6 @@
-# JamilBaseUI
+# lrjamilBaseUI
 
-[![Release](https://jitpack.io/v/developer-jamil/JamilBaseUI.svg)](https://jitpack.io/#developer-jamil/JamilBaseUI)
+[![Release](https://jitpack.io/v/developer-jamil/lrjamilBaseUI.svg)](https://jitpack.io/#developer-jamil/lrjamilBaseUI)
 
 A professional Android UI resource library for building fully responsive and scalable layouts across mobile, 7-inch tablets, and 10-inch tablets.
 
@@ -31,7 +31,7 @@ dependencyResolutionManagement {
 ### Step 2: Add the dependency to your app's `build.gradle`
 ```gradle
 dependencies {
-    implementation 'com.github.developer-jamil:JamilBaseUI:v1.0.4'
+    implementation 'com.github.developer-jamil:lrjamilBaseUI:v1.0.0'
 }
 ```
 
@@ -82,7 +82,7 @@ Apply professional styles to your views instantly:
 ## Technical Details
 - **Min SDK:** 23
 - **Compiled SDK:** 36
-- **Version:** v1.0.4
+- **Version:** v1.0.0
 
 ## Developed By
 **Jamil Lab LTD**
